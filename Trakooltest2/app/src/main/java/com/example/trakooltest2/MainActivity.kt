@@ -23,8 +23,6 @@ class MainActivity : AppCompatActivity() {
 
         //Set Event
         setSingleEvent(mainGrid)
-
-
     }
 
 
